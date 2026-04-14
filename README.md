@@ -53,8 +53,6 @@ groq-chatbot/
 
 ## 📸 Screenshots
 
-(Add your app screenshot here)
-
 ![img](assets/AI_chatbot_using_Groq_screenshot.png)
 ---
 
